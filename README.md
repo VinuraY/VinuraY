@@ -7,8 +7,7 @@ Here are some ideas to get you started: -->
 
 - 🎩 Cyber Security Student
 - 🕵️ Penetration Tester
-- 🌐 Netwoking(NSE1, NSE2)
-- 👨‍💻 Python Developer
+- 👨‍💻 Python & C Developer
 - ☣️ CTF player
 
 [![Vinura's GitHub stats](https://github-readme-stats.vercel.app/api?username=VinuraY&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
