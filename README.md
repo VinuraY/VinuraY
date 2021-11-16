@@ -10,7 +10,7 @@ Here are some ideas to get you started: -->
 - 👨‍💻 Python & C Developer
 - ☣️ CTF player
 
-[![Vinura's GitHub stats](https://github-readme-stats.vercel.app/api?username=VinuraY&theme=algolia)]
+[![Vinura's GitHub stats](https://github-readme-stats.vercel.app/api?username=VinuraY&theme=algolia)](https://github.com/VinuraY)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VinuraY&layout=compact&theme=blueberry)]
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VinuraY&layout=compact&theme=blueberry)](https://github.com/VinuraY)
 
