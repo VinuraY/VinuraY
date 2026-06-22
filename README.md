@@ -6,7 +6,12 @@
 Here are some ideas to get you started: -->
 
 # 💫 About Me:
-- 🎩 Cyber Security Student<br>- 🕵️ Penetration Tester<br>- ☣️ CTF player<br>- 👨‍💻 Python & C Developer<br>- 🧠 AI/ML Developer<br>- 🌐 Network and Cloud practitioner<br>
+- 🎩 Cyber Security Student
+- 🕵️ Penetration Tester
+- ☣️ CTF player
+- 👨‍💻 Python & C Developer
+- 🧠 AI/ML Developer
+- 🌐 Network and Cloud practitioner<br>
 
 
 ## 🌐 Socials:
