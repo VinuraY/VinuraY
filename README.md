@@ -1,26 +1,111 @@
-### Hi there 👋
+<div data-importer="border">
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=venom&height=100&section=header&reversal=false&text=Hii%20There%20I'm%20Vinura%F0%9F%91%8B!!&fontSize=40&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&strokeWidth=0&animation=fadeIn&descSize=40&descAlign=50&descAlignY=50&textBg=false&color=gradient"  />
+</div>
 
-<!--
-**VinuraY/VinuraY** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+###
 
-Here are some ideas to get you started: -->
+<br clear="both">
 
-# 💫 About Me:
-- 🎩 Cyber Security Student
-- 🕵️ Penetration Tester
-- ☣️ CTF player
-- 👨‍💻 Python & C Developer
-- 🧠 AI/ML Developer
-- 🌐 Network and Cloud practitioner<br>
+<h2 data-importer="text" align="left">About Me 🚀</h2>
 
+###
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/vinura-yashohara) 
+<div data-importer="image" align="center">
+  <img data-importer="image" height="200" src="https://media1.tenor.com/m/rCaIUO0MP-EAAAAC/mario-pixel-art.gif"  />
+</div>
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white) ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Playwright](https://img.shields.io/badge/-playwright-%232EAD33?style=for-the-badge&logo=playwright&logoColor=white) ![Puppeteer](https://img.shields.io/badge/Puppeteer-%2340B5A4.svg?style=for-the-badge&logo=Puppeteer&logoSize=auto&logoColor=black) ![Selenium](https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=VinuraY&theme=transparent&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=VinuraY&theme=transparent&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=VinuraY&theme=transparent&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+###
+
+<h6 data-importer="text" align="left">- 🎩 Cyber Security Student<br>- 🕵️ Penetration Tester<br>- ☣️ CTF player<br>- 👨‍💻 Programmer<br>- 🧠 AI/ML Developer<br>- 🌐 Network and Cloud practitioner<br>- ♾️ Interest in DevOps</h6>
+
+###
+
+<h2 data-importer="text" align="left">Tech Stack ⚙️</h2>
+
+###
+
+<div data-importer="techs" align="left">
+  <img src="https://cdn.simpleicons.org/c/A8B9CC" height="40" alt="c logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/python/3776AB" height="40" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/rust/000000" height="40" alt="rust logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/go/00ADD8" height="40" alt="go logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/gnubash/4EAA25" height="40" alt="bash logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/linux/FCC624" height="40" alt="linux logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/tensorflow/FF6F00" height="40" alt="tensorflow logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/pytorch/EE4C2C" height="40" alt="pytorch logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="40" alt="numpy logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/opencv/5C3EE8" height="40" alt="opencv logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/docker/2496ED" height="40" alt="docker logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/git/F05032" height="40" alt="git logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/github/181717" height="40" alt="github logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/arduino/00979D" height="40" alt="arduino logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/selenium/43B02A" height="40" alt="selenium logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=aws" height="40" alt="amazonwebservices logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=gcp" height="40" alt="googlecloud logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" height="40" alt="oracle logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/apache/D22128" height="40" alt="apache logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/flask/000000" height="40" alt="flask logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/fastapi/009688" height="40" alt="fastapi logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" height="40" alt="redis logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=mysql" height="40" alt="mysql logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/sqlite/003B57" height="40" alt="sqlite logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/netlify/00C7B7" height="40" alt="netlify logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-original.svg" height="40" alt="heroku logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" height="40" alt="anaconda logo"  />
+</div>
+
+###
+
+<div data-importer="stats" align="center">
+  <img src="https://raw.githubusercontent.com/maurodesouzad/maurodesouzad/stats-output/stats.svg?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://raw.githubusercontent.com/maurodesouzad/maurodesouzad/languages-output/languages.svg?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=gotham&hide_border=false&order=2" height="150" alt="languages graph"  />
+</div>
+
+###
+
+<h6 data-importer="text" align="left">Connect me on</h6>
+
+###
+
+<div data-importer="socials" align="left">
+  <a href="vinurayashohara@gmail.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="40" height="28" alt="gmail logo"  />
+  </a>
+  <a href="https://www.linkedin.com/in/vinura-yashohara/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="40" height="28" alt="linkedin logo"  />
+  </a>
+</div>
+
+###
+
+<div data-importer="profile-views" align="center">
+  <img data-importer="profile-views" src="https://count.getloli.com/@:maurodesouzad?theme=3d-num&padding=1&scale=0.5&align=center&pixelated=1&darkmode=auto"  />
+</div>
+
+###
