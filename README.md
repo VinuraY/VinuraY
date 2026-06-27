@@ -87,29 +87,10 @@
 ###
 
 <div data-importer="stats" align="center">
-  <img src="https://raw.githubusercontent.com/VinuraY/VinuraY/languages-output/languages.svg?locale=en&hide_title=false&layout=default%20&card_width=320&langs_count=5&theme=default&hide_border=false&order=2" height="150" alt="languages graph"  />
   <img src="https://raw.githubusercontent.com/VinuraY/VinuraY/stats-output/stats.svg?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://raw.githubusercontent.com/VinuraY/VinuraY/languages-output/languages.svg?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=tokyonight&hide_border=false&order=2" height="150" alt="languages graph"  />
   <img src="https://streak-stats.demolab.com?user=VinuraY&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
   <img src="https://raw.githubusercontent.com/VinuraY/VinuraY/activity-graph-output/activity-graph.svg?radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
 </div>
-
-###
-
-<h6 data-importer="text" align="left">Connect me on</h6>
-
-###
-
-<div data-importer="socials" align="left">
-  <a href="vinurayashohara@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="40" height="28" alt="gmail logo"  />
-  </a>
-  <a href="https://www.linkedin.com/in/vinura-yashohara/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="40" height="28" alt="linkedin logo"  />
-  </a>
-</div>
-
-###
-
-<img data-importer="profile-views" align="left" src="https://count.getloli.com/@:VinuraY?theme=3d-num&padding=1&offset=1&scale=0.4&align=center&pixelated=0&darkmode=auto"  />
 
 ###
