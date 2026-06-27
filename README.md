@@ -16,7 +16,7 @@
 
 ###
 
-<h6 data-importer="text" align="left">- 🎩 Cyber Security Student<br>- 🕵️ Penetration Tester<br>- ☣️ CTF player<br>- 👨‍💻 Programmer<br>- 🧠 AI/ML Developer<br>- 🌐 Network and Cloud practitioner<br>- ♾️ Interest in DevOps</h6>
+<p data-importer="text" align="left">- 🎩 Cyber Security Student<br>- 🕵️ Penetration Tester<br>- ☣️ CTF player<br>- 👨‍💻 Programmer<br>- 🧠 AI/ML Developer<br>- 🌐 Network and Cloud practitioner<br>- ♾️ Interest in DevOps</p>
 
 ###
 
@@ -80,3 +80,4 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" height="40" alt="anaconda logo"  />
 </div>
 
+###
